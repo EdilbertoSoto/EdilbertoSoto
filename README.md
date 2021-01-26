@@ -1,7 +1,8 @@
 # EdilbertoSoto
 
-<h1 align = "center"> Olá 👋 </h1>
+<h1 align = "center"> Seja bem-vindo 👋 </h1>
 
+<h1>Sobre</h1>
 
 * Eu sou Edilberto Soto nogueira.
 
