@@ -56,6 +56,11 @@
 <span><b><center></center></b> </span> 
 <img height = 65px src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/256_Php_logo-512.png"> 
 </td>
+
+<td align = "center" width = "20%">
+<span><b><center></center></b> </span> 
+<img height = 65px src = "https://secureservercdn.net/198.71.233.107/25l.a4e.myftpupload.com/wp-content/uploads/2020/06/6038586442907648-720x340.png"> 
+</td>
 </tr>
 
 </tbody>
