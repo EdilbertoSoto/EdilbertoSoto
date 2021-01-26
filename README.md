@@ -11,7 +11,7 @@
 
 * Estou disposto a trabalhar em projetos free-lance e adoro contribuir para projetos de código aberto: bulb:
 
-* Conecte-se a mim em LinkeDin: fireworks: <img heigth = 40px scr ="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013.svg" > (https://www.linkedin.com/in/betinho-s-0619aa133/): sparkler:
+* Conecte-se a mim em LinkeDin: (https://www.linkedin.com/in/betinho-s-0619aa133/)
 
 
 ## Tecnologias:
