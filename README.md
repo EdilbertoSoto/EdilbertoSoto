@@ -12,7 +12,7 @@
 * Conecte-se a mim em LinkeDin: fireworks: [LinkeDin Profile] (https://www.linkedin.com/in/betinho-s-0619aa133/): sparkler:
 
 
-## Tecnologias: computador:
+## Tecnologias:
 
 <br>
 <table>
