@@ -49,7 +49,9 @@
 <span><b><center></center></b> </span> 
 <img height = 65px src = "https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
 </td>
+</tr>
 
+<tr>
 <td align = "center" width = "20%">
 <span><b><center></center></b> </span> 
 <img height = 65px src = "https://img2.gratispng.com/20180724/bhb/kisspng-logo-php-html-5b57c278415ab9.8092346315324780722677.jpg"> 
