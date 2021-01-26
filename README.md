@@ -3,13 +3,15 @@
 <h1 align = "center"> Olá 👋 </h1>
 
 
-* Eu sou [Edilberto Soto Nogueira] (https://www.linkedin.com/in/betinho-s-0619aa133/): Técnico em Desenvolvimento de Sistemas
+* Eu sou Edilberto Soto nogueira.
+
+* Técnico em Desenvolvimento de Sistemas.
 
 * Atualmente, estou aprimorando minhas habilidades e pretendo aprender Laravel, VueJS e Oracle database.
 
 * Estou disposto a trabalhar em projetos free-lance e adoro contribuir para projetos de código aberto: bulb:
 
-* Conecte-se a mim em LinkeDin: fireworks: [LinkeDin Profile] (https://www.linkedin.com/in/betinho-s-0619aa133/): sparkler:
+* Conecte-se a mim em LinkeDin: fireworks: <img heigth = 40px scr ="https://cdn.worldvectorlogo.com/logos/linkedin-logo-2013.svg" > (https://www.linkedin.com/in/betinho-s-0619aa133/): sparkler:
 
 
 ## Tecnologias:
