@@ -54,7 +54,7 @@
 <tr>
 <td align = "center" width = "20%">
 <span><b><center></center></b> </span> 
-<img height = 65px src = "https://img2.gratispng.com/20180724/bhb/kisspng-logo-php-html-5b57c278415ab9.8092346315324780722677.jpg"> 
+<img height = 65px src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/256_Php_logo-512.png"> 
 </td>
 </tr>
 
