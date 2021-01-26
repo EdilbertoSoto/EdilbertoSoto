@@ -30,11 +30,6 @@
 <span><b><center></center></b> </span> 
 <img height = 100px src = "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png"> 
 </td>
-
-<td align = "center" width = "45%">
-<span><b><center></center></b> </span> 
-<img height = 100px src = "https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social-logo.png"> 
-</td>
 </tr>
 
 <tr>
@@ -47,11 +42,6 @@
 <span><b><center></center></b> </span> 
 <img height = 100px src = "https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
 </td>
-
-<td align = "center" width = "45%">
-<span><b><center></center></b> </span> 
-<img height = 100px src = "https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-</td>
 </tr>
 
 <tr>
@@ -63,6 +53,18 @@
 <td align = "center" width = "45%">
 <span><b><center></center></b> </span> 
 <img height = 100px src = "https://secureservercdn.net/198.71.233.107/25l.a4e.myftpupload.com/wp-content/uploads/2020/06/6038586442907648-720x340.png"> 
+</td>
+</tr>
+
+<tr>
+<td align = "center" width = "45%">
+<span><b><center></center></b> </span> 
+<img height = 100px src = "https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-social-logo.png"> 
+</td>
+
+<td align = "center" width = "45%">
+<span><b><center></center></b> </span> 
+<img height = 100px src = "https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
 </td>
 </tr>
 
